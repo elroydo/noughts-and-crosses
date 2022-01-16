@@ -1,2 +1,2 @@
 # noughts-and-crosses
-tic tac toe
+tics, tacs, and toes
